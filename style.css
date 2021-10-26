@@ -1,0 +1,28 @@
+body{
+    padding-top: 600px;
+    text-align: center;
+    font-family: courier new;
+}
+#es{
+    border:solid;
+    border-width: 5px;
+    border-radius: 8px;
+    border-color: dimgrey;
+}
+.welcomeintro{
+    position: absolute;
+    overflow: hidden;
+    height:600px;
+    background: linear-gradient(to bottom left, #3E23A6,#50796E);
+}
+#er{
+	z-index: 2;
+	list-style: none;
+	position:absolute;
+	top: 30px;
+	text-align: right;
+	cursor: pointer;
+}
+.ids{
+	
+}
